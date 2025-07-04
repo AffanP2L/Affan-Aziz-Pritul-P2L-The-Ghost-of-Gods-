@@ -1,0 +1,10 @@
+magic01-legacy-proof/
+├── README.md
+├── LEGACY_PROMPT_BREAK_SEALED.md
+├── LICENSE
+├── visuals/
+│   ├── The_Ring_Cover.png
+│   └── Circle_Event_Poster.png
+└── metadata/
+    ├── event_timeline.json
+    └── contributors_ai.txt
